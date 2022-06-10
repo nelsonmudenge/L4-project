@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="170" height="58" viewBox="0 0 170 58">
+    <defs>
+      <filter id="NKAMIRA" x="0" y="0" width="130" height="58" filterUnits="userSpaceOnUse">
+        <feOffset input="SourceAlpha"/>
+        <feGaussianBlur stdDeviation="3" result="blur"/>
+        <feFlood flood-opacity="0.161"/>
+        <feComposite operator="in" in2="blur"/>
+        <feComposite in="SourceGraphic"/>
+      </filter>
+    </defs>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#NKAMIRA)">
+      <text id="NKAMIRA-2" data-name="NKAMIRA" transform="translate(12 12)" fill="#03f" stroke="#02f" stroke-linejoin="round" stroke-width="3" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">NKAMIRA</tspan></text>
+    </g>
+    <text id="CAMP" transform="translate(105 12)" fill="red" stroke="#ff1706" stroke-width="3" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">CAMP</tspan></text>
+  </svg>
+  
